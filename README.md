@@ -1,4 +1,4 @@
-[![MasterHead]([https://i.pinimg.com/564x/a1/98/5f/a1985f953d4981286d0fcedb805ef9ba.jpg](https://wallpaperaccess.com/full/4278438.jpg))](https://akshatsworld.netlify.app/portfolio)
+[![MasterHead](https://wallpaperaccess.com/full/4278438.jpg)](https://akshatsworld.netlify.app/portfolio)
 <h1 align="center">Hi 👋, I'm Akshat Sharma</h1>
 <h3 align="center">Software Developer</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshats911" alt="akshats911" /></a> </p>
