@@ -1,8 +1,6 @@
-[![MasterHead](https://i.pinimg.com/564x/a1/98/5f/a1985f953d4981286d0fcedb805ef9ba.jpg)](https://akshatsworld.netlify.app/portfolio)
+[![MasterHead]([https://i.pinimg.com/564x/a1/98/5f/a1985f953d4981286d0fcedb805ef9ba.jpg](https://wallpaperaccess.com/full/4278438.jpg))](https://akshatsworld.netlify.app/portfolio)
 <h1 align="center">Hi 👋, I'm Akshat Sharma</h1>
 <h3 align="center">Software Developer</h3>
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47rxcxlo1pgvsmsud3ud40x98goul3ctap9rukuyac&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshats911" alt="akshats911" /></a> </p>
 
 - 📫 How to reach me **i.akshats9111@gmail.com**
